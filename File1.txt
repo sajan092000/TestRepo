@@ -5,4 +5,7 @@ Change2 in File1
 
 Something changed.
 
+
 Change doing for rebase in master branch.
+
+Change for rebase in idea branch.
